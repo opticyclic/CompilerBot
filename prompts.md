@@ -41,3 +41,7 @@ Execution failed for task ':compileJava'.
 Gradle still fails
 
 > This issue is still occurring after the changes have been made. Rewrite the build.gradle to resolve this issue.
+
+Gradle fails because the application plugin has been removed
+
+> I now get the  Could not find method application() error again.
