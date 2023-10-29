@@ -68,3 +68,7 @@ Application is missing Spring jars
 Gradle will not build again
 
 > I now get the error Could not find method implementation() for arguments [org.springframework.boot:spring-boot-starter] on object of type org.gradle.api.internal.artifacts.dsl.dependencies.DefaultDependencyHandler.
+
+A default application.properties is missing
+
+> Add an application properties to the project so it can run without creating extra files. The source and build directories can be relative to the jar and the jdk.location=/usr/lib/default-java
