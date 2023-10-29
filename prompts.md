@@ -52,3 +52,7 @@ Can't run gradle when following the README
 > "Command 'gradle' not found, but can be installed with:". 
 > Should the README be using the Gradle Wrapper instead? 
 > If so, output the whole README.md incorporating the changes.
+
+Rename the project to match the created one in GitHub
+
+> The project name is now compiler-bot and the clone command is git clone git@github.com:opticyclic/compiler-bot.git. Update the README
