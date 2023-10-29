@@ -1,5 +1,6 @@
 plugins {
-    id 'java'
+    id 'application'
+    // Other plugins if needed
 }
 
 group = 'com.github.opticyclic.ai.compilerbot'
