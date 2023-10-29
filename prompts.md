@@ -23,3 +23,7 @@ The `build.gradle` doesn't look right.
 Need to document the project
 
 > Create a README.md for this project
+
+Gradle won't run
+
+> I got an error when running my gradle project. > Could not find method application() for arguments [build_8xgrq0adhk4ejws9lnqrwctks$_run_closure3@2293481d] on root project 'compiler-bot' of type org.gradle.api.Project.
