@@ -64,3 +64,7 @@ Application doesn't run
 Application is missing Spring jars
 
 > When I run I now get the error "Caused by: java.lang.ClassNotFoundException: org.springframework.boot.SpringApplication". The Spring jars are not in the jar
+
+Gradle will not build again
+
+> I now get the error Could not find method implementation() for arguments [org.springframework.boot:spring-boot-starter] on object of type org.gradle.api.internal.artifacts.dsl.dependencies.DefaultDependencyHandler.
