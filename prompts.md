@@ -11,3 +11,11 @@ Only a basic structure for the project was provided.
 The `build.gradle` wouldn't import into IDEA
 
 > Write a full build.gradle using the minimum dependencies to compile and run this project
+
+The `build.gradle` doesn't look right.
+
+> Why is spring-boot-starter-web and spring-boot-starter-actuator used for this application?
+
+... Explanation ...
+
+> This is a command line application without any monitoring. Write the build.gradle again
