@@ -16,12 +16,9 @@ CompilerBot is a command-line Java application that monitors a directory for Jav
 
 ## Getting Started
 
-These instructions will help you set up and run the CompilerBot application on your local machine.
-
 ### Prerequisites
 
 - Java Development Kit (JDK)
-- Gradle
 
 ### Installation
 
@@ -29,10 +26,13 @@ Clone the repository:
  
     git clone https://github.com/yourusername/compilerbot.git
 
-Build the project:
+Navigate to the project directory:
 
     cd compilerbot
-    gradle build
+
+Build the project using the Gradle Wrapper:
+
+    ./gradlew build
 
 ### Usage
 
