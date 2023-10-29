@@ -60,3 +60,7 @@ Rename the project to match the created one in GitHub
 Application doesn't run
 
 > When I try to run I get the error no main manifest attribute, in build/libs/compiler-bot-0.1.jar
+
+Application is missing Spring jars
+
+> When I run I now get the error "Caused by: java.lang.ClassNotFoundException: org.springframework.boot.SpringApplication". The Spring jars are not in the jar
