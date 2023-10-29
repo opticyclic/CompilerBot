@@ -45,3 +45,10 @@ Gradle still fails
 Gradle fails because the application plugin has been removed
 
 > I now get the  Could not find method application() error again.
+
+Can't run gradle when following the README
+
+> When I follow the README to build it says 
+> "Command 'gradle' not found, but can be installed with:". 
+> Should the README be using the Gradle Wrapper instead? 
+> If so, output the whole README.md incorporating the changes.
