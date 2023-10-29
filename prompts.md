@@ -19,3 +19,7 @@ The `build.gradle` doesn't look right.
 ... Explanation ...
 
 > This is a command line application without any monitoring. Write the build.gradle again
+
+Need to document the project
+
+> Create a README.md for this project
