@@ -27,3 +27,13 @@ Need to document the project
 Gradle won't run
 
 > I got an error when running my gradle project. > Could not find method application() for arguments [build_8xgrq0adhk4ejws9lnqrwctks$_run_closure3@2293481d] on root project 'compiler-bot' of type org.gradle.api.Project.
+
+Gradle fails
+
+~~~
+Execution failed for task ':compileJava'.
+> Could not resolve all files for configuration ':compileClasspath'.
+   > Could not find org.springframework.boot:spring-boot-starter:.
+     Required by:
+         project :
+~~~
