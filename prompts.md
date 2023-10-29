@@ -7,3 +7,7 @@ This file contains the prompts used to create the project and its commits.
 Only a basic structure for the project was provided.
 
 > Implement the FileMonitorService 
+
+The `build.gradle` wouldn't import into IDEA
+
+> Write a full build.gradle using the minimum dependencies to compile and run this project
