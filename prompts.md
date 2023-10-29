@@ -56,3 +56,7 @@ Can't run gradle when following the README
 Rename the project to match the created one in GitHub
 
 > The project name is now compiler-bot and the clone command is git clone git@github.com:opticyclic/compiler-bot.git. Update the README
+
+Application doesn't run
+
+> When I try to run I get the error no main manifest attribute, in build/libs/compiler-bot-0.1.jar
