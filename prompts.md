@@ -37,3 +37,7 @@ Execution failed for task ':compileJava'.
      Required by:
          project :
 ~~~
+
+Gradle still fails
+
+> This issue is still occurring after the changes have been made. Rewrite the build.gradle to resolve this issue.
