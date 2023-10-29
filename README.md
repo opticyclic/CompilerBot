@@ -1,12 +1,11 @@
-# CompilerBot
+# Compiler Bot
 
 This project is generated as much as possible using ChatGPT.  
 Manual changes are made when code hasn't rendered correctly in the chat webpage.  
 Prompts are saved in the prompts.md file. 
 
 ## Description
-
-CompilerBot is a command-line Java application that monitors a directory for Java source files, organizes them into a new directory structure, and compiles them using a specified JDK location.
+Compiler Bot is a command-line Java application that monitors a directory for Java source files, organizes them into a new directory structure, and compiles them using a specified JDK location.
 
 ## Features
 
@@ -23,12 +22,12 @@ CompilerBot is a command-line Java application that monitors a directory for Jav
 ### Installation
 
 Clone the repository:
- 
-    git clone https://github.com/yourusername/compilerbot.git
+
+    git clone git@github.com:opticyclic/compiler-bot.git
 
 Navigate to the project directory:
 
-    cd compilerbot
+    cd compiler-bot
 
 Build the project using the Gradle Wrapper:
 
@@ -42,12 +41,12 @@ Create a configuration file (e.g., **application.properties***) to specify the s
     build.directory=/path/to/build/directory
     jdk.location=/path/to/jdk
 
-Run the CompilerBot application:
+Run the Compiler Bot application:
 
-    java -jar build/libs/compilerbot-0.1.jar
+    java -jar build/libs/compiler-bot-0.1.jar
 
 The application will start monitoring the source directory, organize and compile Java files.
 
 ### Configuration
 
-You can customize the behavior of CompilerBot by modifying the **application.properties** file. Update the source directory, build directory, and JDK location to fit your project's needs.
+You can customize the behavior of Compiler Bot by modifying the **application.properties** file. Update the source directory, build directory, and JDK location to fit your project's needs.
