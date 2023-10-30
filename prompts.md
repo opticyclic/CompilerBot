@@ -72,3 +72,7 @@ Gradle will not build again
 A default application.properties is missing
 
 > Add an application properties to the project so it can run without creating extra files. The source and build directories can be relative to the jar and the jdk.location=/usr/lib/default-java
+
+Run in background
+
+> The application is supposed to run in the background and keep monitoring the directory for changes every 10 seconds. Make additions to the FileMonitorService class we created earlier to do this
