@@ -76,3 +76,7 @@ A default application.properties is missing
 Run in background
 
 > The application is supposed to run in the background and keep monitoring the directory for changes every 10 seconds. Make additions to the FileMonitorService class we created earlier to do this
+
+Some original code has been removed
+
+> You have removed the compileJavaFile and getPackageName methods and you have removed the jdkLocation property
