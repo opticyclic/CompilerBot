@@ -80,3 +80,8 @@ Run in background
 Some original code has been removed
 
 > You have removed the compileJavaFile and getPackageName methods and you have removed the jdkLocation property
+
+The code hasn't been fully added back
+
+> getPackageName was previously implemented and called from compileJavaFile. Use the previous code
+
