@@ -85,3 +85,6 @@ The code hasn't been fully added back
 
 > getPackageName was previously implemented and called from compileJavaFile. Use the previous code
 
+It runs but doesn't keep running
+
+> The application still just starts and then stops
